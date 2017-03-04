@@ -2,3 +2,4 @@
 
 # TODO
 Create golden image with packer
+AMI 
